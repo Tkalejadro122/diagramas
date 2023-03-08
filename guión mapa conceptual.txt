@@ -1,0 +1,334 @@
+Cómo se puede lograr la flexibilidad del ciclo de vida?
+	.Identificando los procesos que deben llevarse a cabo en cada fase.
+	.Llevando a cabo el/los proceso/s identifiaco/s en la fase adecuada.
+	.Ajustando los diversos atributos de una fase.
+
+Dentro del ciclo de vida de un proyecto existen una o más fases asociadas al desarrollo del producto, los cuales son
+
+-------------------------------------------
+
+Ciclo de vida predictivo
+.Se determina en la fase temprana:
+	.Alcance
+	.Tiempo
+	.Costo
+.También puede llamarse:
+	.Ciclo de vida en cascada, porque hasta que no finaliza la fase predecesora, no 	 empieza la sucesora
+-----------------------------------------------
+
+Ciclo de vida iterativo
+.De determina en la fase temprana:
+	.El alcance
+.Se modifican periodicamente a lo largo del proyecto:
+	.Tiempo
+	.Costo
+.Qué se hace?
+	.Se definen oteraciones a medida que avanza el proyecto. 
+		.En las primeras iteraciones se va construyendo un borrador del proyecto.
+		.En las fases sucesivas se va agregando calidad al producto.
+
+------------------------------------------------
+Ciclo de vida incremental
+.Se determina en la fase temprana:
+	.Alcance
+	.Servicio final
+.Cómo funciona?
+	.En las primeras iteraciones, se entrega una funcionalidad básica
+	.Por cada iteración, se va agregando mayor funcionalidad al producto.
+
+--------------------------------------------------
+Ciclo de vida adaptativo
+.Son:
+	.Ágiles
+	.Iterativos
+	.Incrementales
+.Al comienzo de cada iteración se define:
+	.Alcance
+.También es denominado:
+	.Ciclo de vida ágil.
+
+---------------------------------------------------
+Ciclo de vida híbrido
+.Es una combinación del ciclo de vida:
+	.adaptativo
+		.Para proyectos que tienen requisitos fijos
+	.Predictivo
+		.Para proyectos que van evolucionando.
+
+/////////////////////////////////////////
+
+1.2.4.2
+
+Fase del proyecto
+
+.Es:
+	.un conjunto de actvidades
+	.Relacionadas de manera lógca.
+	.Culmina con la finalización de uno o más entregables.
+Los atributos: 
+	.pueden ser:
+		.Medible
+		.Propios de una fase.
+	.pueden incluir
+		.Nombre
+		.Número
+		.Duración
+		.Requisitos de recursos
+		.Criterios de entrada
+		.Criterios de salida
+Se pueden separar en diferentes fases
+	.Como
+		.Desarrollo conceptual
+		.Estudio de viabilidad
+		.Requisitos del cliente
+		.Diseño
+		.Prototipo
+		.Entre otros
+Se pueden establecer en base a diversos factores
+	.Como
+		.Necesidad de gestión
+		.Naturaleza del proyecto
+		.Características únicas de la organización
+		.Elementos del proyecto
+		.Puntos de decisión
+/////////////////////////////////////////////
+
+1.2.4.3
+
+Punto de revisión de fase
+.Tiene lugar al final de una fase
+El desempeño y el avance se compara con
+	.Documentos del proyecto
+	.Documentos del negocio
+	Que incluyen
+		.Caso del negocio del proyecto
+		.Acta de constitución del proyecto
+		.Plan para la dirección del proyecto
+		.Plan de gestión de beneficios
+	Como resultado de la comparación se toma una decisión a fin de
+		.Continuar a la siguiente fase
+		.Continuar a la siguiente fase con modificaciones
+		.Finalizar el proyecto
+		.Permanecer en la fase
+		.Repetir la fase o elementos de la misma.
+
+/////////////////////////////////////////////
+
+1.2.4.4
+Procesos de la dirección de proyectos
+
+¿Qué hacen?
+	.Cada proceso produce una o más salidas a partir de una o más entradas
+	Mediante
+		.Uso de herramientas
+		.técnicas adecuadas
+.Se aplican a nivel mundial en todas las industrias
+Las salidas del proceso tienen como resultado
+	.Una entrega a todo proceso
+	O bien
+		.Un entregable del proyecto o fase del mismo.
+Los procesos se encuadran en estas categorías:
+	.Procesos utilizados una única vez o en puntos predefinidos del proyecto
+	.Procesos que se llevan a cabo periódicamente según sea necesario
+	.Procesos que se realizan de manera continua a lo largo de todo el proyecto
+
+////////////////////////////////////////////
+
+1.2.4.5
+
+Grupos de procesos de la dirección de proyectos
+¿Qué es?
+	.Es un agrupamiento lógico de procesos de la dirección de proyectos para alcanzar objetivos específicos del proyecto.
+Se agrupan en
+	.Grupo de procesos de incio
+		.Sirven para definir un nuevo proyecto
+	.Grupo de procesos de planificación
+		.Sirven para establecer el alcance del proyecto
+	.Grupos de proceso de ejecucuión
+		.Sirven para completar el trabajo definido
+	.Grupo de procesos de monitoreo y control
+		Sirven para  realizar
+			.Seguimiento
+			.Análisis
+			.Regulación
+			En el proceso y desempeño del proyecto
+	.Grupo de procesos de cierre
+		.Sirven para completar o cerrar formalmente el proyecto.
+
+///////////////////////////////////////////
+
+1.2.4.6
+Áreas del conocimiento de la dirección de proyectos
+¿Qué es?
+	.Es un área identificada de la dirección de proyectos definida por sus requisitos de conocimiento y se describen en terminos de 
+		.procesos
+		.Prácticas
+		.Entradas
+		.Salidas
+		.Herramientas.
+		.Técnicas
+LAs 10 áreas que la componen son:
+	.Gestión de la integración del proyecto
+	.Gestión del alcance del proyecto
+	.Gestión del cronograma del proyecto
+	.Gestión de los costos del proyecto
+	.Gestión de la calidad del proyecto
+	.Gestión de los recursos del proyecto
+	.Gestión de las comunicaciones del proyecto
+	.Gestión de los riesgos del proyecto
+	.Gestión de las adquisiciones del proyecto
+	.Gestión de los interesados del proyecto
+/////////////////////////////////////////////7
+
+1.2.4.7
+Datos e información de la dirección de proyectos
+¿Qué se hace con eso?
+	.Se analizan en contexto
+	.Se acumulan
+	.Se transforman
+	Para qué?
+		.PAra convertirse en información del proyecto durante varios procesos
+
+Lo siguiente determina la terminología clave con relación a los datos
+	.Datos de desempeño del trabajo
+	.Información de desempeño del trabajo
+	.Informes de desempeño del trabajo
+
+
+
+
+//////////////////////////////
+
+1.2.5
+Adaptación
+
+.Por lo general, los directores de proyecto aplican una metodología para la dirección de proyectos en su trabajo.
+	Qué es una metodología
+		.Es un sistema de prácticas, técnicas, procedimientos y normas utilizado por quienes trabajan en una disciplina.
+	LAs metodologías para la dirección de proyectos pueden ser
+		.DEsarrolladas por expertos dentro de la organización
+		.Compradas a proveedores
+		.Obtenidas de asociaciones profesionales
+		.Adquiridas en agencias gubernamentales.
+¿Por qué es necesario?
+	.Porque todo proyecto es único, ya que no todos los procesos, herramientas, técnicas, entradas o salidas son necesarias en cada proyecto.
+¿Qué debe abordar?
+	.REstricciones contrapuestas del alcance
+	.Cronograma
+	.Costo
+	.Recursos
+	.Calidad
+	.Riesgo
+
+
+
+/////////////////////////////
+
+1.2.6
+
+Documentos de negocio de la dirección de proyectos
+
+.Por lo general, el patrocinador del proyecto es responsable del desarrollo y mantenimiento del documento del caso de negocio del proyecto.
+
+/////////////////////////////
+1.2.6.1
+Caso de negocio del proyecto
+
+Qué es?
+	.Es un estudio de viabilidad documentado
+	Para qué es usado?
+		.Para establecer la validez de los beneficios de un componente que carece de una definición suficiente
+		.Es usado como base para la autorización de otras actividades de dirección del proyecto.
+¿Qué implica?
+	.Comprender metas y objetivos
+	.Incidentes y oportunidades de negocio
+	.Recomendar propuestas para abordarlos
+¿Qué puede incluir?
+	.Necesidades del negocio
+	Como
+		.Determinación de motivación sobre necesidad de acción
+		.enunciado que documente el problema u oportunidad de neogcio a abordar
+		.Identificación de los intereses afectados
+		.Identifiación del alcance
+	.Análisis de la situación
+	Como
+		.Identificación de las estrategias, metas y objetivos
+		.Identificación de las causas raíz de problemas o contribuidores a una oportunidad
+		.Análisis de brechas entre capacidades necesarias para el proyecto y existentes en la organización.
+		.Identificación de riesgsos conocidos
+		.Identificación de factores críticos del éxito
+		.Identificación de criterios de decisión
+			Algunos ejemplos
+			.Requerido
+				.El criterio debe cumplirse
+			.Deseable
+			.Opcional
+				.El criterio no es fundamental
+		.Identificación de un conjunto de opciones para abordar el problema
+			Sus tres opciones son
+			.No hacer nada
+				.También conocido como "seguir funcionando como hasta ahora"
+			.Hacer el mínimo trabajo posible
+				.Se puede establecer identificando el conjunto de criterios fundamentales
+			Hacer más que el mínimo trabajo
+				.Cumple el conjunto mínimo de criterios y alguno o todos los criterios documentados
+	.REcomendación
+		.Enunciado de la opción recomendad a seguir en el proyecto
+		.Los elementos a incluir en el enunciado pueden ser:
+			.Resultados de análisis para la opción potencial
+			.Restricciones, supuestos, riesgos y despendencias
+			.Medidas de éxito.
+		.Enfoque de implementación, que pueden incluir
+			.Hitos
+			.Dependencias
+			.Roles y responsabilidades
+	.Evaluación
+		.Enunciado que describe el plan para medir el éxito y avance a lo largo del ciclo de vida
+
+////////////////////////////////////////
+
+1.2.6.2
+Plan de gestión de beneficios del proyecto
+.Documento que describe el modo y momento en que se entregarpan los beneficios del proyecto
+.Describe los mecanismoa que deben estar a disposición para medir los beneficios.
+Puede incluir
+	.Beneficios objetvo
+	.Alineación estratégica
+	.Plazo para obtener los beneficios
+	.Dueño de los beneficios
+	.Métricas
+	.Supuestos
+	.Riesgos
+
+///////////////////////////////////////
+1.2.6.3
+Acta de constitución del proyecto y plan para la dirección del proyecto
+Qué es?
+	.Es un documento emitido por el patrocinador del proyecto.
+	Qué hace
+		.Autoriza formalmente la existencia de un proyecto
+		.Confiere al director del proyecto la autoridad para aplicar los recursos.
+
+///////////////////////////////////////
+1.2.6.4
+Medidas del éxito del proyecto
+Qué se debe preguntar para conocer el éxito de un proyecto?
+[
+	.Cómo se define el éxito para ese proyecto?
+	.Cómo se medirá el éxito?
+	.Qué factores pueden incluir en el éxito?
+]
+.Todo esto debe ser documentado y acordado por lo interesados
+
+.El éxito puede incluir criterios adicionales
+Como por ejemplo:
+	.Completar el plan de gestión de beneficios del proyecto
+	.Cumplir las medidas financieras acordadas, que está documentadas, como por ejemplo
+		.Valor actual neto (NPV)
+		.Retorno de la inversión (ROI)
+		.Tasa interna del retorno (IRR)
+	.Cumplir los objetivos no financieros del caso de negocio
+	.Cumplir términos y condiciones
+	.Lograr satisfacción de los interesados
+	.Acordar la calidad de entrega acordada
+	.Cumplir criterios de gobernanza
