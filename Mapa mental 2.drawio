@@ -1,9 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T17:33:57.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="21.1.2" etag="GldEry8aM3auT0HPZXPF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T21:09:34.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="QMXQg90LFvm1LfWCISvk" version="21.1.2" type="github">
   <diagram name="Página-1" id="yF_17WNMb-e9FdZoweoe">
-    <mxGraphModel>
+    <mxGraphModel dx="259" dy="134" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2250" pageHeight="1450" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿De qué se encarga?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="180" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-3" value="Subdividir entregables y trabajos del proyecto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="371" y="140" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿Con qué intención?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="232.5" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-5" value="Para que sus productos sean:" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="207" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-6" value="Más pequeños" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="95" y="200" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-7" value="Más manejables" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="95" y="219.5" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-8" value="Para cumplir con los objetivos establecidos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="260" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-9" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Se dividen en tres componentes&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-10" value="&lt;b style=&quot;font-size: 6px;&quot;&gt;Entradas&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#F22732;strokeColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="545" y="560" width="109.5" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-11" value="CREAR LA EDT/WBS" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#ffffff;fillColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="255" width="177" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-12" value="&lt;b&gt;Plan para la dirección del proyecto&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#FA4C20;strokeColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="365.0000000000001" y="515" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-15" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿Qué incluyen?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="253" y="523.5" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-16" value="El plan para la gestión del alcance del proyecto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="175" y="522" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-17" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿Qué hace?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="120" y="523.5" width="26.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-18" value="Documenta cómo será creada la EDT a partir del enunciado del proyecto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="522" width="65" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-19" value="&lt;b&gt;Documentos del proyecto&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#FA4C20;strokeColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="365.0000000000001" y="625" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-20" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿Qué incluyen?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="270" y="675" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-21" value="Enunciado del alcance del proyecto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="645" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-22" value="Documentación de requisitod" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="705" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-23" value="Describe el trabajo que se realizará" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="632" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-24" value="Describe el trabajo excluído" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="658" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-25" value="Describe cómo los requisitos individuales cumplen con las necesidades del negocio&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="702.5" width="60" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-26" value="&lt;b&gt;Factores ambientales de la empresa&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#FA4C20;strokeColor=none;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="480.0000000000001" y="705" width="78" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-27" value="Pueden influenciar el proceso de crear la EDT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="745" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-28" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;¿Qué incluyen?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="765" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-29" value="Políticas, procedimientos y plantillas de la EDT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="409" y="820" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-30" value="Archivos de proyectos anteriores" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="489" y="820" width="58" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-31" value="Lecciones aprendidas procedentes de proyectos anteriores" style="rounded=1;whiteSpace=wrap;html=1;fontSize=4;fillColor=#FAA720;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="569" y="816.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-32" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-11" target="4fd5o5HvgM6I9_VGSMAm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="576" y="226" as="sourcePoint" />
+            <mxPoint x="462" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-33" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-2" target="4fd5o5HvgM6I9_VGSMAm-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521.5" y="242.5" as="sourcePoint" />
+            <mxPoint x="422.5" y="177.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-34" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-11" target="4fd5o5HvgM6I9_VGSMAm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377.5" y="246.5" as="sourcePoint" />
+            <mxPoint x="377.5" y="219.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-35" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-4" target="4fd5o5HvgM6I9_VGSMAm-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="297" as="sourcePoint" />
+            <mxPoint x="330" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-36" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-4" target="4fd5o5HvgM6I9_VGSMAm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="243" as="sourcePoint" />
+            <mxPoint x="258" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-37" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-5" target="4fd5o5HvgM6I9_VGSMAm-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="243" as="sourcePoint" />
+            <mxPoint x="258" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-38" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-5" target="4fd5o5HvgM6I9_VGSMAm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="219" as="sourcePoint" />
+            <mxPoint x="158" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-39" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-11" target="4fd5o5HvgM6I9_VGSMAm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="611" y="370" as="sourcePoint" />
+            <mxPoint x="569" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-40" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-9" target="4fd5o5HvgM6I9_VGSMAm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541.5" y="446.5" as="sourcePoint" />
+            <mxPoint x="705.5" y="518.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-41" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-10" target="4fd5o5HvgM6I9_VGSMAm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="410" as="sourcePoint" />
+            <mxPoint x="475" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-42" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-12" target="4fd5o5HvgM6I9_VGSMAm-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="607" as="sourcePoint" />
+            <mxPoint x="288" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-43" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-15" target="4fd5o5HvgM6I9_VGSMAm-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="575" as="sourcePoint" />
+            <mxPoint x="233" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4fd5o5HvgM6I9_VGSMAm-44" value="" style="endArrow=classic;html=1;rounded=0;endSize=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4fd5o5HvgM6I9_VGSMAm-16" target="4fd5o5HvgM6I9_VGSMAm-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="551" as="sourcePoint" />
+            <mxPoint x="133" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
